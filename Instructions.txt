@@ -1,0 +1,14 @@
+Steps
+
+Part 1
+Generate the file structure:
+
+1. Copy 'template_dir' into your storage directory and populate it with the required files.
+
+Part 2
+Next, run the program:
+1. Open 'anaconda prompt' from the search bar.
+2. Type in: 'conda activate TPSR'
+3. Type in: 
+4. Provide the filepath to the data directory made in part 1.
+5. Profit!!
